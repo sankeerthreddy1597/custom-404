@@ -39,5 +39,7 @@ Perfect for beginners learning the App Router or anyone wanting an example of a 
 ## Screenshots
 
 ### Home Page
+<img width="1440" height="780" alt="Screenshot 2025-12-06 at 12 14 52 AM" src="https://github.com/user-attachments/assets/4f661d08-600d-49e3-a043-f1547ac66f0e" />
 
 ### Not Found Page
+<img width="1440" height="853" alt="Screenshot 2025-12-05 at 4 30 49 PM" src="https://github.com/user-attachments/assets/b374ae1f-315a-4300-82da-19817c4f5733" />
